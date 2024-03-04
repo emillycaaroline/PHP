@@ -10,7 +10,11 @@
 </head>
 <body>
     <?php
-
+     define('NAME',(
+        'Emilly Caroline de Andrade Chagas'
+    ));
+    echo NAME; //imprime meu nome 
+       
     ?>
 </body>
 </html>

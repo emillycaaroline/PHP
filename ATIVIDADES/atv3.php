@@ -10,8 +10,7 @@
 </head>
 <body>
     <?php
-    define("CONSTANT", "Hello word.");
-    echo CONSTANT; //imprime "Hello word."
+    echo "Hoje é dia: " . date("d/m/y") . "<br>";
 
     ?>
 </body>

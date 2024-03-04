@@ -10,6 +10,8 @@
 </head>
 <body>
     <?php
+    define("CONSTANT", "Hello world.");
+    echo CONSTANT; //imprime "Hello word."
 
     ?>
 </body>
